@@ -11,9 +11,13 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.2.1",
+    "firebase": "^10.7.1",
+    "install": "^0.13.0",
+    "npm": "^10.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.21.1"
+    "react-router-dom": "^6.21.1",
+    "react-social-login-buttons": "^3.9.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
