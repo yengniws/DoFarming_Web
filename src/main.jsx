@@ -8,9 +8,13 @@ import Home from "./Pages/Home/Home";
 import Routine from "./Pages/Routine/Routine";
 
 import "./Styles/Login/Login.css";
+import "./Styles/Routine/Routine.css";
+
+import "./assets/fonts/Gowun_Dodum/font.css";
 
 const root = document.getElementById("root");
 const rootElement = createRoot(root);
+
 
 rootElement.render(
   <Router>
